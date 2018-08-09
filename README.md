@@ -1,7 +1,10 @@
 # vueapp
 
-A Vue.js project
-This is a build following the tutorial from Traversy Media
+> A Vue.js project
+
+***
+
+> This is a build following the tutorial from Traversy Media
 
 ## Build Setup
 
